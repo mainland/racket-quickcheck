@@ -8,6 +8,8 @@ env:
       VERSION_SPECIFIC_CATALOG="http://download.racket-lang.org/releases/6.1.1/catalog/"
     - RACKET_VERSION=6.2
       VERSION_SPECIFIC_CATALOG="http://download.racket-lang.org/releases/6.2/catalog/"
+    - RACKET_VERSION=7.5
+      VERSION_SPECIFIC_CATALOG="http://download.racket-lang.org/releases/7.5/catalog/"
     - RACKET_VERSION=HEAD
       VERSION_SPECIFIC_CATALOG="http://download.racket-lang.org/releases/6.2/catalog/"
 
